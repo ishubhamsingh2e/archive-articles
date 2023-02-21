@@ -1,3 +1,6 @@
+
+![[assets/Pasted image 20230221143650.png]]
+
 Neural networks, also known as artificial neural networks (ANNs) or simulated neural networks (SNNs), are a subset of machine learning and are at the heart of deep learning algorithms. Their name and structure are inspired by the human brain, mimicking the way that biological neurons signal to one another.
 
 Neural networks comprise multiple layers and each layer contains a certain number of nodes, each node is connected to each node from previous layer node (except input layer).
